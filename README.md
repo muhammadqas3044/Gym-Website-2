@@ -1,9 +1,9 @@
 # Gym-Website-2  
 ---
-##**About**
+##**About**  
 The whole project is about a dummy gym website in which we have used HTML & CSS at beginners level.  
 ---
-##**Purpose**  
+##**Purpose**    
 This is for the beginners who are practising or learning HTML & CSS.
 ---
 ##**How It Works**
